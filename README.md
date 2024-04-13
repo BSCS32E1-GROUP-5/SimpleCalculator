@@ -1,4 +1,5 @@
 SIMPLE CALCULATOR PROJECT PROPOSAL : BSCS32E1 GROUP - 5
+
 Summary
 This proposal aims to enhance the functionality and user experience of the Simple Calculator application. By implementing additional features and improving existing ones, we aim to provide users with a more robust and intuitive tool for mathematical calculations.
 
